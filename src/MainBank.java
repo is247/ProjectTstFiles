@@ -1,4 +1,4 @@
-//Valerie Schultz schultc4@umbc.edu, Jaspreet Kaur kaur5@umbc.edu, Jason Chung jchung11@umbc.edu, Mohamed  mjalloh2@umbc.edu
+//Valerie Schultz schultc4@umbc.edu, Jaspreet Kaur kaur5@umbc.edu, Jason Chung jchung11@umbc.edu, Mohamed Jalloh mjalloh2@umbc.edu
 import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.util.Stack;
